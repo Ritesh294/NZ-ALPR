@@ -1,4 +1,5 @@
 # NZ-ALPR
+**This is still under development - ALPR performance will not be perfect.**
 OpenALPR-Trained for NZ region.
 
 For existing openalpr installations:
